@@ -1,0 +1,6 @@
+{
+  "name": "Previsões e Estatísticas Futebol",
+  "description": "Plataforma avançada de estatísticas de futebol, comparativo de times (São Paulo, Corinthians, Palmeiras, etc.), análise de finalizações e escanteios, predições por IA e alertas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
